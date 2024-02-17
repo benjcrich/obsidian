@@ -1,0 +1,17 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": true,
+  "ignoreForceViewAll": true,
+  "folders": [
+    {
+      "folder": "2-Mechanics/CLI",
+      "viewMode": ""
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "",
+      "viewMode": ""
+    }
+  ]
+}

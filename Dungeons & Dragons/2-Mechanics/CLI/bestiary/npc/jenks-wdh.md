@@ -1,0 +1,1 @@
+%% ERROR: java.lang.NullPointerException: Cannot invoke "dev.ebullient.convert.tools.dnd5e.qute.AbilityScores.toArray()" because "this.scores" is null %%

@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dndbeyond.com/characters/107425974/HeMGPd",
+      "displayName": "DnDBRum",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 0.9,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}
