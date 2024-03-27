@@ -10,6 +10,17 @@
       "zoomLevel": 0.9,
       "forceIframe": false,
       "customCss": ""
+    },
+    {
+      "url": "https://dicecloud.com/character/mNh9MWKT4CQec9g3w/Ra-kah",
+      "displayName": "DnDBRaKah",
+      "icon": "Shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
     }
   ],
   "padding": 5

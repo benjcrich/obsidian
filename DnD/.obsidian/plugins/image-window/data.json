@@ -1,0 +1,19 @@
+{
+  "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "Benj-Rich-Jasper.local": {
+          "x": 659,
+          "y": 87,
+          "width": 1024,
+          "height": 800,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}
