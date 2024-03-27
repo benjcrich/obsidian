@@ -1,7 +1,8 @@
 {
   "attachmentFolderPath": "z_Attachments",
   "readableLineLength": false,
-  "livePreview": false,
+  "livePreview": true,
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

@@ -131,8 +131,8 @@
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.2.0",
-  "autoCollapse": false,
-  "defaultCollapseType": "open",
+  "autoCollapse": true,
+  "defaultCollapseType": "closed",
   "injectColor": true,
   "parseTitles": true,
   "dropShadow": true,
@@ -143,7 +143,9 @@
     "other": true,
     "advanced": false
   },
-  "icons": [],
+  "icons": [
+    "rpg"
+  ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,

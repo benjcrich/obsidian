@@ -98,7 +98,28 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Giant Wolf Spider",
+        "initiative": 15,
+        "static": false,
+        "modifier": 3,
+        "hp": 11,
+        "currentMaxHP": 11,
+        "cr": "1/4",
+        "ac": 13,
+        "currentAC": 13,
+        "id": "ID_692bc869fbfa",
+        "currentHP": 11,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d8 + 2"
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
